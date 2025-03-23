@@ -7,7 +7,7 @@ Step into the Batcave of competitive coding, where you'll find solutions as prec
 
 |WEEK|LEVEL| 
 |--|--|
-|WEEK 1|EASY|
+|[WEEK 1](./PROBLEMSETS/EASY/readme.md)|EASY|
 |WEEK 2|INTERMEDIATE|
 |WEEK 3|ADVANCED|
 |WEEK 4|TIME SPACE COMPLEXITY|
