@@ -6,4 +6,4 @@
 
 |DAYS|
 |--|
-|[DAY-1](./PROBLEMSETS/EASY/Days)|
+|[DAY-1](./PROBLEMSETS/EASY/Days/day-1.md)|
